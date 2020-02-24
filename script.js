@@ -12,3 +12,6 @@ $(document).ready(function(){
         $("#img3").toggle();
       });
   });
+  function myFunction() {
+    alert("Thank you for reaching out to Delani studios we will get back to you shortly");
+  }
