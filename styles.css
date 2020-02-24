@@ -50,17 +50,20 @@ body{
     background-color: grey;
     margin: 10px;
 }
+#p1,#p2,#p3{
+  display: none;
+}
   
 #name{
   width:400px;
   height:70px;
-  margin-left: 70px;
+  margin-left: 300px;
 }
 
 #email{
   width:400px;
   height:70px;
- margin-right:200px;
+ margin-right:700px;
 }
 
 #message{
