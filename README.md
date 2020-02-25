@@ -12,7 +12,7 @@ Assignment on Delani Studios
  > It has been a hectic journey.Through this project i have learnt a lot of skills.
  
  ## LINK TO LIVE SITE
- > click [HERE]()
+ > click [HERE](https://lukindosandra.github.io/carekit/)
  
  ## TECHNOLOGIES USED
  > I created an HTML file,CSS and JS of which i made my code through confirming via the W3Schools and my pair partner.
