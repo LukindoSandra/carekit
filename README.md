@@ -5,7 +5,7 @@ Assignment on Delani Studios
  > Sandra Maryanne
  
  ## Project Description
- > It required me to make a similar website on DELANI STUDIOS.
+ > It required me to make a similar website on DELANI STUDIOS.<br>
  > Main aim was for me to get to understand Jquery into deep.
  
  ## AUTHOR'S INFORMATION
