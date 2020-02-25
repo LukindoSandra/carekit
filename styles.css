@@ -64,26 +64,47 @@ img:hover{
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  margin: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  /* margin: 10px; */
+  /* width: 1550px; */
+  /* height: 600px; */
 }
 
 #name {
-  width: 400px;
+  /* width: 400px;
   height: 70px;
-  margin-left: 300px;
+  margin-left: 300px; */
+  background: transparent;
 }
 
 #email {
-  width: 400px;
+  /* width: 400px;
   height: 70px;
-  margin-right: 700px;
+  margin-right: 700px; */
+  background: transparent;
 }
 
 #message {
-  width: 900px;
-  height: 300px;
+  /* width: 1000px;
+  height: 300px; */
+  background: transparent;
+}
+#submit{
+  background-color: blue;
+  text-align: center;
 }
 
+.mc-field-group .mce-MESSAGE{
+  height: 100px;
+}
 footer {
   text-align: center;
 }
+.what-we-do h1{
+  text-align: center;
+}
+
+
+
+
