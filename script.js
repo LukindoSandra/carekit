@@ -77,21 +77,3 @@ $("#text8").hover(
     $("#giraffe").hide();
   }
 )
-$(document).ready(function(){
-  var $form = $('#formAdd');
-  $form.submit(function(){
-      var id= $("#id").val();
-      if (id.length < 12) {
-          alert("INPUT ERROR");
-          return false;
-      }
-
-      $.post($form.attr('action'), $(this).serialize(), function(response){
-          alert("DATA SUCCESSFULLY ADDED");
-      },'json');
-      return false;
-  });
-});
-function myFunction() {
-  alert("Thank you for contacting Delani studios we shall get back to you shortly!");
-}
