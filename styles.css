@@ -105,6 +105,21 @@ footer {
   text-align: center;
 }
 
-
+#desktop,#color,#blank,#burned,#giraffe{
+  display:none;
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:white;
+  padding:20px 20px;
+}
+#wishes,#icons,#ontario{
+  display:none;
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:black;
+  padding:20px 20px;
+}
 
 

@@ -12,65 +12,66 @@ $(document).ready(function(){
         $("#img3").toggle();
       });
   });
-$().hover(
+
+$("#text1").hover(
   function(){
-    $("#text1").show();
+    $("#desktop").show();
   },
   function(){
     $("#desktop").hide();
   }
-)
-$().hover(
+);
+$("#text2").hover(
   function(){
-    $("#text2").show();
+    $("#color").show();
   },
   function(){
     $("#color").hide();
   }
 )
-$().hover(
+$("#text3").hover(
   function(){
-    $("#text3").show();
+    $("#ontario").show();
   },
   function(){
     $("#ontario").hide();
   }
 )
-$().hover(
+$("#text4").hover(
   function(){
-    $("#text4").show();
+    $("#blank").show();
   },
   function(){
     $("#blank").hide();
   }
 )
-$().hover(
+$("#text5").hover(
   function(){
-    $("#text5").show();
+    $("#wishes").show();
   },
   function(){
     $("#wishes").hide();
   }
 )
-$().hover(
+$("#text6").hover(
   function(){
-    $("#text6").show();
+    $("#icons").show();
   },
   function(){
     $("#icons").hide();
   }
 )
-$().hover(
+$("#text7").hover(
   function(){
-    $("#text7").show();
+    $("#burned").show();
   },
   function(){
     $("#burned").hide();
   }
 )
-$().hover(
+$("#text8").hover(
   function(){
-    $("#text8").show();
+    $("#giraffe").show();
   },
   function(){
     $("#giraffe").hide();
