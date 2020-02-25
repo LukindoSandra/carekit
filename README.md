@@ -2,7 +2,7 @@
 Assignment on Delani Studios
  
   ## Author
- > Lukindo Sandra.
+ > Sandra Maryanne
  
  ## Project Description
  > It required me to make a similar website on DELANI STUDIOS.
